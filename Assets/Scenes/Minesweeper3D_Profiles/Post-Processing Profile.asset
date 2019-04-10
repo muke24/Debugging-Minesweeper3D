@@ -15,7 +15,6 @@ MonoBehaviour:
   - {fileID: 114605577215742686}
   - {fileID: 114167427287390708}
   - {fileID: 114028814139512226}
-  - {fileID: 114267902731858744}
 --- !u!114 &114028814139512226
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -36,7 +35,7 @@ MonoBehaviour:
     value: 0
   intensity:
     overrideState: 1
-    value: 1.86
+    value: 1.75
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -63,7 +62,7 @@ MonoBehaviour:
     value: 0.25
   quality:
     overrideState: 1
-    value: 2
+    value: 4
 --- !u!114 &114167427287390708
 MonoBehaviour:
   m_ObjectHideFlags: 3
